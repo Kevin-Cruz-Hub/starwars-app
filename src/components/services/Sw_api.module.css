@@ -1,0 +1,29 @@
+/* App.js */
+.Header{
+    text-align: center;
+    color: white;
+    background-color: rgba(21, 21, 47, 0.98);
+    margin: 0 0 40px;
+}
+/* Sw_api.js */
+.Squad{
+    color: white;
+    background-color: rgb(5, 71, 64);
+
+    width: 300px;
+    height: 110px;
+    text-align:center;
+    font-size: 10px;
+    font-weight: 100;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    border-radius: 10px;
+
+}
+
+.Whole{
+    display: flex;
+    flex-wrap: wrap;
+}
